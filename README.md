@@ -1,4 +1,4 @@
-# Akın Oztorun
+# Akın Öztorun
 
 **Senior Product Engineer · TypeScript · React · Next.js · Vue 3 · API-first · Reliability**
 
@@ -27,8 +27,8 @@ Nine years shipping production software across HR SaaS, e-commerce, legal tech, 
 
 ## Selected work
 
-**[Base360 — multi-tenant dashboard investigation](https://github.com/akin-oz/Base360)**
-Treated a public multi-tenant revenue dashboard as a real investigation. Found **14 bugs** across cross-tenant data exposure, float-precision errors in money handling, and a timezone regression hiding behind dead code. Fixed every one, wrote a postmortem for each, added **89 regression tests**, and architectural hardening that makes the whole class of failure impossible to ship silently.
+**[PropertyOS — debugging investigation](https://github.com/akin-oz/propertyos-debug-investigation)**
+Multi-tenant rental ops platform handed over with a vague complaint: *"two clients say the numbers are wrong, and one is seeing data that isn't theirs."* Traced **14 production-class failures** — cross-tenant cache poisoning, `float()` on money totals, fail-open auth silently granting strangers access to a real client's dashboard, PII in telemetry. Fixed each with a postmortem and a regression test. Two CI gates — one Playwright tenant-switch test and three convention lints — block the whole class from shipping. Catching one bug is luck; preventing a class is engineering.
 `Python · FastAPI · React · Redis · PostgreSQL · multi-tenancy`
 
 **[energy-portfolio-slice](https://github.com/akin-oz/energy-portfolio-slice)**
