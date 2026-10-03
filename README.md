@@ -4,7 +4,7 @@
 
 I own product surfaces end to end — from instrumentation to infrastructure. Frontend is one layer, not the whole identity.
 
-Nine years shipping production software across HR SaaS, e-commerce, legal tech, and dev tools. Currently the sole frontend on a Vue 3 / Nuxt community platform. Based in Antalya, Turkey; EU-aligned hours.
+Seven years shipping production software across HR SaaS, e-commerce, legal tech, and dev tools. Most recently the sole frontend on a Vue 3 / Nuxt community platform. Based in Antalya, Turkey; EU-aligned hours.
 
 ---
 
